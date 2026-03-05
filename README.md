@@ -3,20 +3,13 @@
 ## 📌 Objetivo del Ejercicio
 
 El objetivo de este ejercicio es que construyas una pequeña aplicación en React para controlar una temperatura, mostrar un mensaje dinámico en pantalla y guardar un historial de los cambios realizados.
-
 Trabajarás con los conceptos de `useState`, props y renderizado condicional en React.
 
----
-
 ## 📂 Funcionalidades
-
-Vais a desarrollar:
 
 - Un componente para visualizar la temperatura actual y un mensaje según el valor.
 - Unos botones para subir, bajar y resetear la temperatura.
 - Un listado que muestra el historial de cambios con la hora exacta en la que se realizó cada uno.
-
----
 
 ## 🎯 Requisitos
 
@@ -27,8 +20,6 @@ Vais a desarrollar:
   - `TemperatureDisplay`: muestra la temperatura y el mensaje.
   - `TemperatureControls`: muestra los botones.
   - `HistoryList`: muestra el historial.
-
----
 
 ## 🔧 Comportamientos esperados
 
